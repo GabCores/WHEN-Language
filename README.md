@@ -2,10 +2,6 @@
 
 A unique loop-based programming language where everything runs in implicit loops with conditional execution. 
 
-////////////////////////////////////////////
-HOLALALALALALAALALL
-////////////////////////////////////
-
 ## Features
 
 - **Implicit Main Loop**: Everything in `main:` runs continuously
