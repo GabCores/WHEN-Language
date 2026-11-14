@@ -1,2 +1,35 @@
 
-fddfsdfsdfs
+---
+layout: default
+title: Enterprise Data Catalog
+---
+
+# Enterprise Data Catalog
+
+Una colección de bases de datos empresariales para
+explorar, analizar y comprender procesos de negocio.
+
+## Modelos disponibles
+
+### Manufacturing & Automation
+- Esquema relacional MySQL
+- 22 tablas
+- Diagrama entidad-relación
+- Datos de ejemplo
+
+### Human Resources
+- Empleados y departamentos
+- Nómina y asistencias
+- Consultas SQL
+
+## Formatos
+
+- SQL: estructura y datos
+- Excel: una hoja por tabla
+- Diagramas ER
+- Diccionario de datos
+
+## Análisis con IA
+
+Ejemplos de uso con Claude y herramientas
+de análisis de hojas de cálculo.
